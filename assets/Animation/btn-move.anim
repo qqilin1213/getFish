@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "btn-move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.7142857142857142,
+  "sample": 7,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -71.402
+        },
+        {
+          "frame": 0.42857142857142855,
+          "value": -88
+        },
+        {
+          "frame": 0.8571428571428571,
+          "value": -71.402
+        },
+        {
+          "frame": 1.2857142857142858,
+          "value": -55
+        },
+        {
+          "frame": 1.7142857142857142,
+          "value": -71.402
+        }
+      ]
+    }
+  },
+  "events": []
+}
